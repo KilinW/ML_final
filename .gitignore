@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Vscode setting folder
+.vscode
+
+# Final Project image file
+test
+train
+
+# IOS file
+.DS_Store
